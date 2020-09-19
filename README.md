@@ -1,7 +1,7 @@
 # FacultyAssistance
 
-Problem      Now we are in the Information/Internet Age. Most of the Information is available over the internet. 
-Statement:   As Students want to learn more in this tech era. So, there should be change in how a faculty/teacher teach to their students. 
+Problem Statement:Now we are in the Information/Internet Age. Most of the Information is available over the internet. 
+             As Students want to learn more in this tech era. So, there should be change in how a faculty/teacher teach to their students. 
              So, Students want the time of faculty/teacher to ask their questions and to share their point/thoughts on a particular topic.
              But most of the time Faculties are busy in Syllabus Completion, Taking Attendance and Maintaining Note and in Preparing the Question Papers for
              the exams and in making the report cards.So, students are not getting more time with faculty/teacher to clear the doubts and to extend their 
