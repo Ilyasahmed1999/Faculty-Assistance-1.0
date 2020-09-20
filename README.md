@@ -40,19 +40,28 @@ To solve the above problem statment. We have Come up with the Java StandAlone De
 **Technologies Used:**
 
 1)Java 11 - Programming Language
+
 2)Swing - Library for developing java desktop application
+
 3)Apache POI - Library for handling the Word Document
+
 4)Microsoft Tools- For Designing and Analysis of the Application
+
 5)Eclipse IDE- Integrated Development Envinorment used for Developing the Application
 
 
 **Todo List:**
 
 1)To move whole application form the File System to the Data base System.
+
 2)To Provide More User Interaction in the application by giving ability to add different standard pattern of Question Papers and Report Cards. 
+
 3)To make it live for the End Users. 
+
 4)To Make User Experience Better.
+
 5)Moving from the Word Document to the PDF format of displaying records. and Also to add the functionality of importing the data from the excel sheet into the application 
+
 6) And exporting the data into the Excel sheet from the application. 
 
 
